@@ -3,10 +3,6 @@
 Laravel Mix in Non-Laravel Projects, With VueJS Framework. Can Using in Front End Projects or Any Where You Need to Use Module Bundler Without Complications.
 
 
-# Installation
-- Clone This Repo.
-- > npm install
-
 # Requirements 
 
 - node
@@ -16,6 +12,11 @@ Run The Following in Your Terminal To Verify That You Have NPM and Node:
 
 > node -v <br>
 > npm -v
+
+
+# Installation
+- Clone This Repo.
+- > npm install
 
 # Running Mix 
 
