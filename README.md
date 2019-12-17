@@ -14,7 +14,7 @@ Laravel Mix in Non-Laravel Projects, With VueJS Framework. Can Using in Front En
  
 # See also
 
-This is Other REPO That Contains Laravel Mix, Vuejs And Tailwind css.
+This is Other [REPO](https://github.com/m7modg97/mixvuetailwind) That Contains Laravel Mix, Vuejs And Tailwind css.
 
 # License
 
